@@ -73,7 +73,6 @@ Im also very good at managing people, I've ran few startups myself, one of them 
 <p align="center">Hewe awe some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
 - 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-AmelAbema-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ryan_Kolesnyk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lunarsgit@gmail.com)
-</div>
 <br>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
