@@ -3,7 +3,7 @@
 <br>
 <div align="center">
     <br>
-  <a href="https://thicc-thighs.de/" >
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" >
    <img src="https://lanyard-profile-readme.vercel.app/api/433690672910827543?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
   </a>
   <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
