@@ -92,7 +92,7 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
 
 - :seedling: Completed courses on Java development Hillel!
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Lunar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ryan_Kolesnyk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lunarsgit@gmail.com)[![Discord Badge](https://img.shields.io/badge/-Lunar-purple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/433690672910827543)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Lunar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ryan_Kolesnyk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lunarsgit@gmail.com)[![Telegram Badge](https://img.shields.io/badge/-Lunar-purple?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/433690672910827543)
 
 ---
 <div>
