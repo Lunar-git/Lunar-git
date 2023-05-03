@@ -98,7 +98,7 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<div class="tenor-gif-embed" data-postid="10744062" data-share-method="host" data-aspect-ratio="2.45098" data-width="100%"><a href="https://tenor.com/view/evangelion-kaworu-anime-gif-10744062">Evangelion Kaworu GIF</a>from <a href="https://tenor.com/search/evangelion-gifs">Evangelion GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/Tfbu.gif
 </div>
 <hr>
 </div>
