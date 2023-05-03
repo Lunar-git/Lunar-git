@@ -1,4 +1,3 @@
-<body>
   <center>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
@@ -93,7 +92,7 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
 
 - :seedling: Completed courses on Java development Hillel!
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-AmelAbema-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ryan_Kolesnyk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lunarsgit@gmail.com)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-Lunar-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ryan_Kolesnyk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lunarsgit@gmail.com)
 
 ---
 <div>
@@ -105,4 +104,3 @@ I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXG
 </div>
 </div>
     </center>
-</body>
