@@ -65,15 +65,35 @@
 Im also very good at managing people, I've ran few startups myself, one of them included more than 30 people working on the board. 
 </p>
 <br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-  <div align="center">
-<img src= "https://i.gifer.com/1VQI.gif" align="right" width="373.5px" height="208.5px">
-  </div>
-<br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-- 📫 How to contact me: [![Telegram Badge](https://img.shields.io/badge/-AmelAbema-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ryan_Kolesnyk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lunarsgit@gmail.com)
-<br>
+### 💻 Technologies:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp
+</div>
+
+---
+  
+### :man_technologist: About me:
+
+I am student from Ukraine<img src="https://media.giphy.com/media/JsVzj7STYnTmpXGVdu/giphy.gif" width="30px"> and studying at PJATK University (Warsaw, PL<img src="https://media.giphy.com/media/LSia5mLwnZBNxyCVPy/giphy.gif" width="30px">) on Computer Scince. I am beginner Java Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My way to IT started from STEP IT School, where I took an intensive course, but didn't get into the main course. After the intensive, there was a gap of a couple of months, where I tried myself in many directions, tried to learn the C/C++ language, Python and Java, tried my hand at data science, but most of all I was hooked by Java Development! From August 2022 to November 2022, I studied Java on my own with some Udemy courses. At the moment my courses are completed and I am looking for a job, also from December 2023 till April 2023 I was working as a Junior Backend Java Developer!
+
+- :telescope: Participated in the Olympiad from the STEP Academy.
+
+- :seedling: Completed courses on Java development Hillel!
+
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-AmelAbema-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ryan_Kolesnyk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:lunarsgit@gmail.com)
+
+---
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
