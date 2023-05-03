@@ -23,27 +23,21 @@
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
 <li>
- <b>Name:</b> Sarah</li>
+ <b>Name:</b> Nick</li>
 <li>
-<b>Fursona:</b> Snow Fox
+<b>Fursona:</b> Ikari Shinji
 </li>
 <li>
 <b>Loves:</b> anime, osu, rhythm games
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+<b>Gender:</b> he/him/Male
 </li>
 <li>
-<b>Git Server</b> https://git.thicc-thighs.de
+<b>Hobbys:</b> Tech Stuff, Programming, Arbitrage, Crypto
 </li>
 <li>
-<b>LastFM:</b> https://scrobble.egirldev.co.uk
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat
+<b>Studying @:</b> PJAIT - Polish-Japanese Academy of Information Technology
 </li>
 <br><br><br>
 </div>
